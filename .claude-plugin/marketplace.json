@@ -271,7 +271,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/apollographql/skills.git",
-        "sha": "c288eb80629dd2309eed81f23d693f66a452d043"
+        "sha": "0670789c766ab475a8c3cf6ae19459c60d3891b1"
       },
       "homepage": "https://www.apollographql.com"
     },
